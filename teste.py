@@ -6,5 +6,4 @@ st.write('Mari')
 st.write("""
 # Vasco da Gama 
 ## Vitória, Vascão!
-##Vamos todos cantar de coração...
 """)
